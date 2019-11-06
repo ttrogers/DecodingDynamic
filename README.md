@@ -13,7 +13,11 @@ ModelOutputs contains raw data output files for all simulations reported in the 
 
 RCode contains R scripts for analyzing the model data. Each script is briefly documented by comments in the file.
 
+ECoG contains code and data for replicating the analysis of ECoG decoding results
+
 Files:
+
+RogersETAL_DDD_manuscript.pdf: Manuscript describing this work.
 
 *.in: These are tcl scripts that build the corresponding network architecture and load training/testing examples. For instance deep_train_p9_e0.in builds the deep network architecture for training the model, while deep_test_p9_e0.in builds the deep network and prepares it for testing the model.
 
