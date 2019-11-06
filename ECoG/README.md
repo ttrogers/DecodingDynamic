@@ -1,0 +1,1 @@
+Files in this directory provide the workflow for creating the figures showing ECoG decoding accuracy over time in this project. Data and use of code is explained in the corresponding JuPyteR notebook and html file. 
