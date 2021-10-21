@@ -1,7 +1,7 @@
 # DecodingDynamic
 Files for simulating dynamic semantic representations in a recurrent neural network
 
-This directory contains files for conducting the neural network simulations described in Rogers et al., "A deep, distributed, and dynamic code for animacy in human anterior temporal cortex."
+This directory contains files for conducting the neural network simulations described in Rogers et al., "A deep, distributed, and dynamic code for animacy in human anterior temporal cortex," published in eLife2021;10:e66276 DOI: https://doi.org/10.7554/eLife.66276
 
 Simulations were conducted using the open-source Light Efficient Network Simulator, documented and available for download at: https://github.com/crcox/lens
 
